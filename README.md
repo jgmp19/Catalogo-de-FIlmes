@@ -6,5 +6,5 @@ Projeto realizado para aprendizado
 ### `yarn install`
 ### `yarn start`
 or
-### `npm start`
+### `npm install`
 ### `npm start`
