@@ -1,5 +1,5 @@
 # Sobre
-Projeto realizado para aprendizado
+Projeto realizado para aprendizado de ReactJS
 
 ## Rodando o projeto
 
